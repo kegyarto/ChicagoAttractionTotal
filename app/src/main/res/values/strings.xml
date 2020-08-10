@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ChicagoPartTwo</string>
+
+
+    <string-array name="attractions">
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Museum Of Science And Industry</item>
+        <item>Art Institute</item>
+        <item>Chicago Riverwalk</item>
+        <item>Millennium Park</item>
+        <item>Willis Tower SkyDeck</item>
+        <item>Field Museum Of Natural History</item>
+    </string-array>
+
+    <string-array name="attractionUrls">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://www.chicagoriverwalk.us/</item>
+        <item>https://www.fieldmuseum.org/</item>
+    </string-array>
+
+    <string-array name="restaurants">
+        <item>Portillo\'s</item>
+        <item>Giordanos</item>
+        <item>Jim\'s Original</item>
+        <item>The Berghoff</item>
+        <item>Al\'s Beef</item>
+        <item>Chicago Pizza And Oven Grinder Company</item>
+
+    </string-array>
+
+    <string-array name="restaurantUrls">
+        <item>https://www.portillos.com/index.html</item>
+        <item>https://giordanos.com/</item>
+        <item>http://jimsoriginal.com/</item>
+        <item>https://www.theberghoff.com/</item>
+        <item>https://www.alsbeef.com/</item>
+        <item>http://chicagopizzaandovengrinder.com/</item>
+    </string-array>
+
+</resources>
