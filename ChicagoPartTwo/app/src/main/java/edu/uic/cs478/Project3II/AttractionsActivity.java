@@ -21,7 +21,7 @@ import android.widget.LinearLayout;
 import java.util.List;
 
 import static android.widget.ListPopupWindow.MATCH_PARENT;
-
+// check
 public  class AttractionsActivity extends AppCompatActivity implements ListFragments.ListSelectionListener {
     public static String[] mTitleArray;
     public static String[] mWebArray;
