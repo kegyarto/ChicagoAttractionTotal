@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travel Chicago</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="attractions">Attractions</string>
+    <string name="button_attractions_takes_you_to_another_app_of_a_list_of_attractions_to_do_in_chicago">Button Attractions: takes you to another app of a list of attractions to do in chicago</string>
+    <string name="button_restaurants_takes_you_to_another_app_that_displays_a_list_of_restaurants_popular_in_chicago">Button Restaurants: takes you to another app that displays a list of restaurants popular in Chicago</string>
+</resources>
